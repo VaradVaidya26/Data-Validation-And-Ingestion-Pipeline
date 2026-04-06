@@ -8,7 +8,7 @@ The pipeline processes incoming CSV files, applies strict validation rules (incl
 
 ## Architecture Summary
 
-<img width="1572" height="703" alt="Screenshot 2026-04-06 145745" src="https://github.com/user-attachments/assets/b6d8899a-c6ae-41e2-a4af-474c353ab2cf" />
+<img width="1572" height="703" alt="Screenshot 2026-04-06 145745" src="https://github.com/user-attachments/assets/f64b2dfc-df69-4283-90c7-173cbae7b851" />
 
 - Landing Layer: Raw CSV files are ingested into Azure Data Lake
 - Processing Layer (Databricks):
